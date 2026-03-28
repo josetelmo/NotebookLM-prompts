@@ -12,7 +12,7 @@ Physical Media Collage, arranged and disparate print cut-outs for a collage, ret
 
 Fonte: https://www.reddit.com/r/notebooklm/comments/1rfy2hw/sharing_style_prompt_for_video_overviews/
 
-
+---
 ## Animated
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/36d5ce03-e499-444b-8a12-37f40cabea1a" />
 
@@ -106,7 +106,7 @@ Source Anchor: [Citation] linking the scene's content to the source documents.
 
 Fonte: https://www.reddit.com/r/notebooklm/comments/1s0ihkz/notebooklm_cinematic_video_is_great_but_only_if/
 
-
+---
 
 ## Investigador 
 
@@ -251,25 +251,25 @@ Too many hypotheses	Rank by confidence, present top 3, archive rest, request LEA
 [SYSTEM READY. AWAITING DATA INGESTION.]
 
 Fonte: https://www.reddit.com/r/notebooklm/comments/1s161am/comment/obzh9hv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
-
+---
 
 ## Short story comicbook workflow
 <img src="https://preview.redd.it/short-story-comicbook-workflow-v0-vmnvoh0m87ng1.png?width=1080&crop=smart&auto=webp&s=48766d0a0cabf47a7c52642c4f6e13e9f2c779b2">
 
 I've been writing some short horror stories to put on YouTube as comicbooks, with an instrumental soundtrack, without any commentary. The stories are less than 2 pages of A4, and typically make a video of around 2 minutes.
 
-- Copy paste the story text into NotebookLM.
-- Check that the AI interpretation of my story matches what I want.
-- Create slide deck with the prompt "use the style of a retro horror comicbook, avoid adding any explanations".
-- Use Revise to fix errors in the slides.
-- Download the slide deck as a pdf.
-- Extract each page as an image.
-- Fix any slides with Nano Banana.
-- Insert all the images into capcut.
-- Choose a music track from the YouTube audio library, of the appropriate length, with the genre 'cinematic' and mood 'dark'.
-- Add the music soundtrack to the video.
-- Share the video as 720p.
-- Upload to YouTube.
+- [ ] - Copy paste the story text into NotebookLM.
+- [ ] - Check that the AI interpretation of my story matches what I want.
+- [ ] - Create slide deck with the prompt "use the style of a retro horror comicbook, avoid adding any explanations".
+- [ ] - Use Revise to fix errors in the slides.
+- [ ] - Download the slide deck as a pdf.
+- [ ] - Extract each page as an image.
+- [ ] - Fix any slides with Nano Banana.
+- [ ] - Insert all the images into capcut.
+- [ ] - Choose a music track from the YouTube audio library, of the appropriate length, with the genre 'cinematic' and mood 'dark'.
+- [ ] - Add the music soundtrack to the video.
+- [ ] - Share the video as 720p.
+- [ ] - Upload to YouTube.
 
 Example: https://youtu.be/MyqH1EAgPRE
 
